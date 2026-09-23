@@ -1,0 +1,9 @@
+Actividad 4. Matrices especiales y decisión técnica   Matriz cuadrada: 
+Es aquella donde la cantidad de filas es igual a la de columnas . Nos sirve cuando necesitamos relacionar un mismo grupo de elementos o hacer recorridos en diagonal.
+Matriz poco densa (o dispersa): Es una matriz donde casi todas las casillas están vacías o tienen ceros, y solo unas pocas guardan información útil.
+
+Ejemplo y justificación en nuestro caso: El caso:
+Si creamos una tabla para ver qué talleres escogen los alumnos, poniendo a 500 estudiantes en las filas y 50 talleres en las columnas, tendríamos una matriz
+completa de 25,000 celdas. Pero en la vida real, un estudiante solo se inscribe a 1 o 2 talleres, lo que significa que más del 95% de la tabla estará llena de ceros.
+Por qué conviene la matriz poco densa: Porque nos ahorra memoria RAM (al no guardar ceros innecesarios) y hace que los algoritmos de búsqueda sean mucho más rápidos,
+ya que no pierden tiempo recorriendo espacios vacíos.
