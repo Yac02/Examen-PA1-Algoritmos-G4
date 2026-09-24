@@ -3,7 +3,7 @@
 > **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL  
 > **Código:** 4134.202620 
 > **Evaluación:** PA1  
-> **Equipo:** Delta 
+> **Equipo:** 4
 
 ## 1. Integrantes
 
