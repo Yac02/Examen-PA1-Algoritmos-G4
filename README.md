@@ -90,7 +90,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 ## 6. Video de exposición
 
-**Video público de YouTube:** https://youtu.be/giTmCFzh0v0
+**Video público de YouTube:** [Ver video de exposición en YouTube](https://youtu.be/giTmCFzh0v0)
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
@@ -102,4 +102,4 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ---
 
-**Última actualización:** [23/09/2026]
+**Última actualización:** 23/09/2026
