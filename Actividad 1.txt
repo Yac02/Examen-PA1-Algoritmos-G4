@@ -1,0 +1,14 @@
+1. Estructura estática vs dinámica:
+La diferencia fundamental radica en cómo gestionan su tamaño en la memoria. Las estructuras estáticas se definen antes de la ejecución del programa y su tamaño permanece fijo e inalterable. Por el contrario, las estructuras dinámicas asignan su memoria durante el tiempo de ejecución, lo que les permite crecer o reducir su tamaño según la cantidad de información.
+
+2. Por qué resulta adecuado trabajar con arreglos y matrices:
+Para la primera etapa de este sistema, usar arreglos (vectores) y matrices es ideal porque son estructuras estáticas que organizan los datos en bloques contiguos de memoria. Esto garantiza un acceso directo y muy rápido a la información mediante índices. Los arreglos sirven para listar las cantidades de inscritos, mientras que las matrices permiten modelar información en dos dimensiones (filas y columnas), lo cual encaja exacto con la necesidad de cruzar datos de aulas y bloques horarios sin hacer compleja la gestión de memoria.
+
+3. Relación entre dato, algoritmo y estructura:
+Estos tres conceptos funcionan como un engranaje:
+
+El dato es la unidad básica de información con la que operamos (por ejemplo, el número "28" que representa a los alumnos inscritos).
+
+La estructura de datos es la herramienta que utilizamos para organizar y almacenar esos datos de manera lógica.
+
+El algoritmo es la secuencia ordenada de pasos que programamos para actuar sobre esa estructura (por ejemplo, el proceso matemático para ordenar el arreglo o sumar los alumnos).
