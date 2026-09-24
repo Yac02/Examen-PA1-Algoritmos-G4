@@ -72,7 +72,7 @@ java Actividad2
 Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funcionamiento.
 
 - Evidencia 1 - Operaciones con Vectores (Actividad 2):
-  ![Ejecución Actividad 2](./img/actividad2_consola.png)
+  ![Ejecución Actividad 2](./img/actividad2_vectores.png)
 - Evidencia 2 - Recorrido de Matrices (Actividad 3):
   ![Ejecución Actividad 3](./img/actividad3_consola.png)
 - Evidencia 3 - Búsqueda en Matriz (Actividad 3):
